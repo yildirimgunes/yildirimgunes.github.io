@@ -17,7 +17,11 @@ citation: 'Güneş, Y., & Arıkan, M. (2023). Twitter Veri Seti İçeriğinin Ta
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
 
 ---
-## Research Summary
+## Keywords
+twitter analysis, descriptive analysis, online meal ordering, online food ordering, content analysis
+
+---
+## Abstract
 — Twitter is one of the online social networking sites where users’ opinions about any subject are circulating.
 The analysis of opinions drawn from Twitter has increaased remarkably in recent academic studies. Twitter is a
 valuable source of information with metadata of users and posts, as well as free-form text content that provides a source
@@ -33,6 +37,4 @@ presentation does not take place as expected, discount/wildcard applications of 
 night, the effect of a television cooking program on orders and the relationship between online meal ordering and
 quarantine.
 
----
-## Keywords
-twitter analysis, descriptive analysis, online meal ordering, online food ordering, content analysis
+
