@@ -6,7 +6,7 @@ permalink: /publication/2020-06-30-article-land-using-planning-industrial-accide
 excerpt: 'This paper focuses on the legal framework and land use planning for the prevention and management of industrial accidents in Turkey.'
 date: 2020-06-30
 venue: 'Journal of Humanities and Tourism Research'
-paperurl: 'https://dergipark.org.tr/tr/pub/johut/article/760748'
+paperurl: 'https://dergipark.org.tr/tr/download/article-file/1178000'
 citation: 'Güneş, Y., & Çetinyokuş, S. (2020). Türkiye’de Endüstriyel Kazalara Yönelik Arazi Kullanım Planlaması (AKUP) Problemi. Journal of Humanities and Tourism Research, 10(2), 226-248. https://izlik.org/JA82DF74LZ'
 ---
 ## Research Summary
