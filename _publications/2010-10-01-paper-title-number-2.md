@@ -9,8 +9,7 @@ with the results obtained from here, a model called Exploration of Twitter Data 
 how to extract customer opinions that businesses can use for improvement/development purposes, is presented'
 date: 2023-04-30
 venue: 'Journal of Information Technologies'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://dergipark.org.tr/en/download/article-file/2712842'
 citation: 'Güneş, Y., & Arıkan, M. (2023). Twitter Veri Seti İçeriğinin Tanımlayıcı Analiz İle Keşfi: Çevrimiçi Yemek Siparişi Üzerine Bir Uygulama. Bilişim Teknolojileri Dergisi, 16(2), 119-133. https://doi.org/10.17671/gazibtd.1190184'
 ---
 ## Research Summary
