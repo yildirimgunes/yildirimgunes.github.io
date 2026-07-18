@@ -14,10 +14,10 @@ This study examines the legal framework and planning challenges related to land 
 
 ---
 ## Keywords
--Industrial accidents, 
--Industrial establishment, 
--Industrial plant, 
--Land Use Planning (LUP).
+Industrial accidents, 
+Industrial establishment, 
+Industrial plant, 
+Land Use Planning (LUP).
 
 ---
 ## Abstract
