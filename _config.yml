@@ -24,12 +24,12 @@ repository               : "yildirimgunes/yildirimgunes.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Yildirim Gunes"
+  name             : "Yildirim Gunes, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher | Data Analytics | Natural Language Processing | Supply Chain Management"
+  bio              : "Researcher in Data Analytics, NLP and Supply Chain Management"
   location         : "Earth"
   employer         : "Independent Researcher"
-  uri              : # URL
+  uri              : # 
   email            : "yildirimgunes1973@gmail.com" 
 
   # Academic websites
