@@ -122,3 +122,9 @@ FROM employee;
 
 Today I learned the basic concepts of relational databases and wrote my first SQL queries using the `SELECT` statement. I also learned how to rename columns with `AS`, retrieve unique values using `DISTINCT`, create reusable views, and the difference between the `LIMIT` command in PostgreSQL and the `TOP` command in SQL Server.
 
+---
+
+## Downloads
+- 📄 [Download PDF](/files/SQL_Learning_Journal_01.pdf)
+- 📝 [Download Word](/files/SQL_Learning_Journal_01.docx)
+
