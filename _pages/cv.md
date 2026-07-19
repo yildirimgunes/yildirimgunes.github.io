@@ -27,7 +27,7 @@ Work experience
   * Gazi University
 
 * 2016-2018: Office-Staff Manager
-  * Kars
+  * Türkiye
   * Duties included: Operation, Personel, Logistic Manager
  
 * 2014-2016: Office-Staff Manager
@@ -45,25 +45,24 @@ Work experience
 
 Skills/Core Competencies
 ======
-* Intermediate proficiency in Python programming, text mining, sentiment analysis, aspect-based sentiment analysis, lexicon-based classification, text classification, Natural Language Processing (NLP), NLP models, feature extraction, TF, TF-IDF, TF-IDF-ICF, Data Science, machine learning models, and classification algorithms.
-* Strong analytical, statistical analysis, problem-solving, reporting, and communication skills; detail-oriented with excellent written, verbal, and presentation abilities.
-* Advanced expertise in report writing, analysis, presentations, and translation between Turkish and English.
-* Advanced proficiency in Microsoft Office (Word, PowerPoint, and Excel).
-* Extensive experience in data analysis and reporting, coordination and communication, leadership, team management, and teamwork.
-* International professional experience in the United States, Australia, and Bosnia and Herzegovina, with expertise in operations management, office administration, human resource management, and the development and implementation of Standard Operating Procedures (SOPs).
-* English: Strong spoken communication skills with advanced proficiency in reading, writing, and academic report writing.
-* Intermediate to advanced proficiency in English–Turkish and Turkish–English translation.
-* Experience in logistics coordination and logistics management.
-* Hardworking, able to perform effectively under time pressure, eager to learn, capable of working independently as well as collaboratively in a team, reliable, and quick to adapt to new environments and working conditions.
-* Author of five published scientific articles (see links and details below).
-* Served also as a peer reviewer for numerous manuscripts submitted to international scientific journals.
+* Data Analytics & AI: Data analytics, machine learning, Natural Language Processing (NLP), text mining, sentiment analysis, aspect-based sentiment analysis, lexicon-based classification, text classification, feature extraction, TF, TF-IDF, and TF-IDF-ICF.
+* Programming & Data Tools: Intermediate proficiency in Python; currently expanding expertise in SQL, Power BI, and business analytics.
+* Research & Scientific Writing: Author of five peer-reviewed scientific publications with experience in academic research, technical writing, reporting, presentations, and peer review for international scientific journals.
+* Analytical & Problem-Solving Skills: Strong analytical thinking, statistical analysis, problem-solving, reporting, and communication skills with attention to detail.
+* Leadership & Management: Experience in operations management, logistics coordination, team leadership, office administration, human resource management, and the development and implementation of Standard Operating Procedures (SOPs).
+* Software Skills: Advanced proficiency in Microsoft Word, Excel, and PowerPoint.
+* Languages: Turkish (native), English (professional working proficiency with strong academic reading and writing skills).
+* Personal Strengths: Adaptable, reliable, hardworking, quick to learn, able to work independently or as part of a team, and effective under time pressure.
 
 Personal Attributes
 ======
-* Collaborative, patient, and solution-oriented.
-* Analytical, detail-oriented, and well-organized.
-* Responsible and proactive.
-*  I prefer to carefully evaluate different alternatives before making decisions. At the same time, I continuously strive to balance thorough analysis with efficient decision-making.
+* Analytical and solution-oriented
+* Strong sense of responsibility and integrity
+* Quick learner with a growth mindset
+* Adaptable to new environments and challenges
+* Effective team player with leadership experience
+* Able to work independently and under time pressure
+* Detail-oriented with strong organizational skills
 
 Publications
 ======
@@ -85,4 +84,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
