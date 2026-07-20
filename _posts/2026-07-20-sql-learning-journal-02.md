@@ -100,3 +100,8 @@ FROM table_name;
 ## What I Learned Today
 
 Today I learned how SQL aggregation functions summarize data efficiently. I practiced using the `SUM()`, `AVG()`, `MIN()`, `MAX()`, and `COUNT()` functions to calculate statistics from table data. I also learned how to retrieve unique values using `DISTINCT` and how to count unique values and total records in a table.
+---
+
+## Downloads
+
+- 📄 [Download PDF](/files/SQL_Learning_Journal_02.pdf)
