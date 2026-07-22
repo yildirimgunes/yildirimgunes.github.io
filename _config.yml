@@ -26,8 +26,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Yildirim Gunes, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in Data Analytics, NLP and Supply Chain Management"
-  location         : "Earth"
+  bio              : "Researcher in Data Analytics, SQL, Natural Language Processing, Social Media Analytics and Supply Chain Management. Currently expanding research interests toward Bioinformatics and Computational Biology."
+  location         : ""
   employer         : "Independent Researcher"
   uri              : # 
   email            : "yildirimgunes1973@gmail.com" 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-6543-6399"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # https://www.researchgate.net/profile/Yildirim-Guenes?ev=hdr_xprf
   scopus           : # URL
   zotero           : # URL
@@ -64,9 +64,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # yildirimgunes1973, kitapyoluyg
+  instagram        : # https://www.instagram.com/kitapyoluyg_kitap_ozetleri?igsh=M3QwcXVnc2c1bGU=
   lastfm           : # Username
-  linkedin         : # yildirim-gunes
+  linkedin         : # linkedin.com/in/yildirim-gunes-3aaa04170
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
