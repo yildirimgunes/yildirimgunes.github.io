@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Learning Journal"
+title: ""
 permalink: /learning-journal/
 author_profile: true
 ---
