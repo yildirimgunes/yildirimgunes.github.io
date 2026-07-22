@@ -28,24 +28,28 @@ I am an independent researcher with research interests in **Data Analytics**, **
 
 # 🚀 Current Focus
 
-✔ SQL
+ SQL
 
-✔ Python
+# Python
 
-✔ Power BI
+# Power BI
 
-✔ Bioinformatics
+# Bioinformatics
 
-✔ Computational Biology
+# Computational Biology
 
 ---
 
-# 📚 Latest Updates
+# 📚 Explore This Website
 
-- 📘 SQL Learning Journal
-- 📚 Publications
-- 📄 Academic CV
-- 📝 Blog Posts
+- 📚 **Publications**  
+  Peer-reviewed scientific publications and research articles.
+
+- 📘 **Learning Journal**  
+  My structured learning journey in SQL, Python, Power BI, Bioinformatics, and Computational Biology.
+
+- 📄 **Curriculum Vitae**  
+  Education, professional experience, publications, and technical skills.
 
 ---
 
