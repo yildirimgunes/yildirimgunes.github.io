@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yildirim Gunes | Yildirim Gunes | Data Analytics, NLP & Supply Chain Research"
+title                    : "Yildirim Gunes | Data Analytics, NLP & Supply Chain Research"
 title_separator          : "-"
 name                     : &name "Yildirim Gunes"
 description              : &description "Research portfolio of Yildirim Gunes, PhD, featuring research and projects in Data Analytics, SQL, Natural Language Processing, Social Media Analytics, Supply Chain Management, and Bioinformatics."
@@ -158,9 +158,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-F63X20H0B1"
 
 
 # Reading Files
