@@ -1,12 +1,12 @@
 ---
 permalink: /
 title: ""
+author: "Yildirim Gunes"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-
 Welcome to my academic portfolio and learning website.
 
 I am an independent researcher with research interests in **Data Analytics**, **Natural Language Processing (NLP)**, **Social Media Analytics**, **Supply Chain Management**, and **Bioinformatics**. This website presents my publications, learning journals, projects, and professional background.
