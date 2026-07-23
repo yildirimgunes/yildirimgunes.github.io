@@ -33,7 +33,6 @@ author:
   email            : "yildirimgunes1973@gmail.com" 
 
   # Academic websites
-  academia         : "https://independent.academia.edu/YildirimGunes"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=BWimHzsAAAAJ&hl=en"
   inspire-hep      : # URL
@@ -43,6 +42,7 @@ author:
   ssrn             : # URL
   pubmed           : 
   researchgate     : "https://www.researchgate.net/profile/Yildirim-Guenes"
+  academia         : "https://independent.academia.edu/YildirimGunes"
   scopus           : # URL
   zotero           : # URL
 
