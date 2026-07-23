@@ -2,17 +2,66 @@
 
 Yildirim Gunes:
   name: "Yildirim Gunes, PhD"
-  email: "yildirimgunes1973@gmail.com"
-  bio: "Researcher | Data Analytics | Natural Language Processing | Text Mining | Supply Chain Management"
   avatar: "profile.jpg"
 
+  # Contact
+  email: "yildirimgunes1973@gmail.com"
+
+  # Biography
+  bio: "Researcher in Data Analytics, SQL, Natural Language Processing, Social Media Analytics, Supply Chain Management, and Bioinformatics."
+
+  # Basic Information
+  employer: "Independent Researcher"
+  location: ""
+
+  # Academic Profiles
   googlescholar: "https://scholar.google.com/citations?user=BWimHzsAAAAJ&hl=en"
   orcid: "https://orcid.org/0000-0001-6543-6399"
   researchgate: "https://www.researchgate.net/profile/Yildirim-Guenes"
   academia: "https://independent.academia.edu/YildirimGunes"
 
+  # Developer Profile
   github: "yildirimgunes"
 
+  # Professional Profile
   linkedin: "yildirim-gunes-3aaa04170"
 
+  # Social Media
   instagram: "kitapyoluyg_kitap_ozetleri"
+
+  # Optional Profiles
+  arxiv:
+  inspire-hep:
+  impactstory:
+  semantic:
+  pubmed:
+  scopus:
+  zotero:
+  ssrn:
+
+  bitbucket:
+  codepen:
+  dribbble:
+  kaggle:
+  stackoverflow:
+
+  artstation:
+  facebook:
+  flickr:
+  foursquare:
+  goodreads:
+  keybase:
+  lastfm:
+  mastodon:
+  medium:
+  pinterest:
+  soundcloud:
+  steam:
+  telegram:
+  tumblr:
+  twitter:
+  weibo:
+  wikipedia:
+  xing:
+  youtube:
+  zhihu:
