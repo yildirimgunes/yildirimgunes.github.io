@@ -13,6 +13,10 @@ title                    : "Yildirim Gunes | Data Analytics, NLP & Supply Chain 
 title_separator          : "-"
 name                     : &name "Yildirim Gunes"
 description              : &description "Research portfolio of Yildirim Gunes, PhD, featuring research and projects in Data Analytics, SQL, Natural Language Processing, Social Media Analytics, Supply Chain Management, and Bioinformatics."
+og_image                 : "/images/social-preview.png"
+
+twitter:
+  card                   : "summary_large_image"
 url                      : https://yildirimgunes.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
