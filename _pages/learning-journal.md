@@ -18,6 +18,7 @@ This page documents my continuous learning journey in Data Analytics, SQL, Pytho
 - [SQL Learning Journal #1 – Introduction to SQL](/posts/sql-learning-journal-01/)
 - [SQL Learning Journal #2 – Data Aggregation Functions](/posts/sql-learning-journal-02/)
 - [SQL Learning Journal #3 – Filtering Data with WHERE](/posts/sql-learning-journal-03/)
+- [SQL Learning Journal #4 – Multiple Criteria, LIKE and IN](/posts/sql-learning-journal-04/)
 
 ---
 
