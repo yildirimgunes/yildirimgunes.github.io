@@ -116,4 +116,4 @@ remember the correct syntax. Regular practice is essential to become confident i
 
 ## 📥 Downloads
 
-- 📄 [Download PDF](/files/SQL_Learning_Journal_06.pdf)
+- 📄 [Download PDF](/files/SQL_Learning_Journal_05.pdf)
