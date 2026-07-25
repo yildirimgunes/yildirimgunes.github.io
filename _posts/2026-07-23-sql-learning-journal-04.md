@@ -142,3 +142,9 @@ The **IN** operator makes SQL queries shorter, cleaner, and easier to read.
 Today I learned how to filter data using multiple conditions with **AND**, **OR**, and **BETWEEN**.I also practiced text filtering with **LIKE**, **NOT LIKE**, and the **IN** operator.
 One important lesson I learned today is that understanding SQL commands is only the first step. Real learning comes through regular practice. 
 Even after understanding the syntax, I may forget how to write queries unless I continue practicing consistently.
+
+---
+
+## Downloads
+
+- 📄 [Download PDF](/files/SQL_Learning_Journal_04.pdf)
