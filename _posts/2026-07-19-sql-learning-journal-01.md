@@ -126,5 +126,4 @@ Today I learned the basic concepts of relational databases and wrote my first SQ
 
 ## Downloads
 - 📄 [Download PDF](/files/SQL_Learning_Journal_01.pdf)
-- 📝 [Download Word](/files/SQL_Learning_Journal_01.docx)
 
