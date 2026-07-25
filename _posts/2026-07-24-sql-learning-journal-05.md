@@ -112,6 +112,8 @@ Today I learned how to combine filtering conditions with counting functions in S
 `COUNT(column_name)`, `COUNT(DISTINCT column_name)`, `IS NULL`, and `IS NOT NULL`. One important lesson I learned today is that combining multiple SQL commands makes queries more powerful, but it is also more challenging to 
 remember the correct syntax. Regular practice is essential to become confident in writing SQL queries.
 
+---
+
 ## 📥 Downloads
 
 - 📄 [Download PDF](/files/SQL_Learning_Journal_06.pdf)
