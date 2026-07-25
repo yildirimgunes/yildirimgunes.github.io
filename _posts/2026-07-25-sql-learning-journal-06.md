@@ -140,3 +140,7 @@ FROM films;
 Today I learned how to summarize data using SQL aggregate functions. I practiced **AVG()**, **SUM()**, **MIN()**, **MAX()**, **COUNT()**, and **ROUND()**, 
 and I learned how to combine aggregate functions with filtering conditions. One important lesson I learned today is that writing SQL requires careful attention 
 to syntax. Even a small mistake, such as a missing comma or incorrect parentheses, can cause a query to fail.
+
+## 📥 Downloads
+
+- 📄 [Download PDF](/files/SQL_Learning_Journal_06.pdf)
