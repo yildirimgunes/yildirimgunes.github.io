@@ -1,6 +1,5 @@
 ---
 
----
 title: "SQL Learning Journal #2 – Data Aggregation Functions"
 date: 2026-07-20
 permalink: /posts/sql-learning-journal-02/
