@@ -21,6 +21,8 @@ This page documents my continuous learning journey in Data Analytics, SQL, Pytho
 - [SQL Learning Journal #4 – Multiple Criteria, LIKE and IN](/posts/sql-learning-journal-04/)
 - [SQL Learning Journal #5 – Combining Filtering, Counting and Missing Values](/posts/sql-learning-journal-05/) ([PDF](/files/SQL_Learning_Journal_05.pdf))
 - [SQL Learning Journal #6 – Aggregate Functions to Understand Data](/posts/sql-learning-journal-06/) ([PDF](/files/SQL_Learning_Journal_06.pdf))
+- [SQL Learning Journal #7 – Alias and Arithmetic Operations](/posts/sql-learning-journal-07/)
+  ([PDF](/files/SQL_Learning_Journal_07.pdf))
 
 ---
 
