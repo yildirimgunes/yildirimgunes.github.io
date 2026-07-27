@@ -23,6 +23,8 @@ This page documents my continuous learning journey in Data Analytics, SQL, Pytho
 - [SQL Learning Journal #6 – Aggregate Functions to Understand Data](/posts/sql-learning-journal-06/) ([PDF](/files/SQL_Learning_Journal_06.pdf))
 - [SQL Learning Journal #7 – Alias and Arithmetic Operations](/posts/sql-learning-journal-07/)
   ([PDF](/files/SQL_Learning_Journal_07.pdf))
+- [SQL Learning Journal #8 – Sorting Tables with ORDER BY](/posts/sql-learning-journal-08/)
+  ([PDF](/files/SQL_Learning_Journal_08.pdf))
 
 ---
 
