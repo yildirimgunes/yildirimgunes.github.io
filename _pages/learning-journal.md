@@ -25,6 +25,8 @@ This page documents my continuous learning journey in Data Analytics, SQL, Pytho
   ([PDF](/files/SQL_Learning_Journal_07.pdf))
 - [SQL Learning Journal #8 – Sorting Tables with ORDER BY](/posts/sql-learning-journal-08/)
   ([PDF](/files/SQL_Learning_Journal_08.pdf))
+- [SQL Learning Journal #9 – Grouping Data with GROUP BY](/posts/sql-learning-journal-09/)
+  ([PDF](/files/SQL_Learning_Journal_09.pdf))
 
 ---
 
