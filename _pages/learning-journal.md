@@ -27,6 +27,8 @@ This page documents my continuous learning journey in Data Analytics, SQL, Pytho
   ([PDF](/files/SQL_Learning_Journal_08.pdf))
 - [SQL Learning Journal #9 – Grouping Data with GROUP BY](/posts/sql-learning-journal-09/)
   ([PDF](/files/SQL_Learning_Journal_09.pdf))
+- [SQL Learning Journal #10 – Filtering Grouped Data with HAVING](/posts/sql-learning-journal-10/)
+  ([PDF](/files/SQL_Learning_Journal_10.pdf))
 
 ---
 
