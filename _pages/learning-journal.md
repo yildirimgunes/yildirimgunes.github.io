@@ -29,7 +29,8 @@ This page documents my continuous learning journey in Data Analytics, SQL, Pytho
   ([PDF](/files/SQL_Learning_Journal_09.pdf))
 - [SQL Learning Journal #10 – Filtering Grouped Data with HAVING](/posts/sql-learning-journal-10/)
   ([PDF](/files/SQL_Learning_Journal_10.pdf))
-
+- [SQL Learning Journal #11 – Summary of SQL Fundamentals](/posts/sql-learning-journal-11/)
+  ([PDF](/files/SQL_Learning_Journal_11.pdf))
 ---
 
 More learning journals will be added as my learning journey continues.
