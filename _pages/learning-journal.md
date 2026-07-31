@@ -31,6 +31,8 @@ This page documents my continuous learning journey in Data Analytics, SQL, Pytho
   ([PDF](/files/SQL_Learning_Journal_10.pdf))
 - [SQL Learning Journal #11 – Summary of SQL Fundamentals](/posts/sql-learning-journal-11/)
   ([PDF](/files/SQL_Learning_Journal_11.pdf))
+- [SQL Learning Journal #12 – Joining Data with UNION](/posts/sql-learning-journal-12/)
+  ([PDF](/files/SQL_Learning_Journal_12.pdf))
 ---
 
 More learning journals will be added as my learning journey continues.
