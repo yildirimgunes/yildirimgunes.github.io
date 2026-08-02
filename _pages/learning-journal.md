@@ -33,6 +33,8 @@ This page documents my continuous learning journey in Data Analytics, SQL, Pytho
   ([PDF](/files/SQL_Learning_Journal_11.pdf))
 - [SQL Learning Journal #12 – Joining Data with UNION](/posts/sql-learning-journal-12/)
   ([PDF](/files/SQL_Learning_Journal_12.pdf))
+- [SQL Learning Journal #13 – INNER JOIN](/posts/sql-learning-journal-13/)
+  ([PDF](/files/SQL_Learning_Journal_13.pdf))
 ---
 
 More learning journals will be added as my learning journey continues.
