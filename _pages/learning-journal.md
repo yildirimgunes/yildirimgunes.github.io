@@ -37,6 +37,7 @@ This page documents my continuous learning journey in Data Analytics, SQL, Pytho
   ([PDF](/files/SQL_Learning_Journal_13.pdf))
 - [SQL Learning Journal #14 – Multiple INNER JOINs](/posts/sql-learning-journal-14/)
   ([PDF](/files/SQL_Learning_Journal_14.pdf))
+  
 ---
 
 More learning journals will be added as my learning journey continues.
