@@ -39,6 +39,8 @@ This page documents my continuous learning journey in Data Analytics, SQL, Pytho
   ([PDF](/files/SQL_Learning_Journal_14.pdf))
 - [SQL Learning Journal #15 – LEFT JOIN and RIGHT JOIN](/posts/sql-learning-journal-15/)
   ([PDF](/files/SQL_Learning_Journal_15.pdf))
+- [SQL Learning Journal #16 – FULL JOINs, Crossing into CROSS JOIN](/posts/sql-learning-journal-16/)
+  ([PDF](/files/SQL_Learning_Journal_16.pdf))
   
 ---
 
