@@ -43,6 +43,8 @@ This page documents my continuous learning journey in Data Analytics, SQL, Pytho
   ([PDF](/files/SQL_Learning_Journal_16.pdf))
 - [SQL Learning Journal #17 – INNER (SELF) JOIN](/posts/sql-learning-journal-17/)
   ([PDF](/files/SQL_Learning_Journal_17.pdf))
+- [SQL Learning Journal #18 – SET OPERATIONS](/posts/sql-learning-journal-18/)
+  ([PDF](/files/SQL_Learning_Journal_18.pdf))
   
 ---
 
