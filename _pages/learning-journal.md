@@ -45,7 +45,9 @@ This page documents my continuous learning journey in Data Analytics, SQL, Pytho
   ([PDF](/files/SQL_Learning_Journal_17.pdf))
 - [SQL Learning Journal #18 – SET OPERATIONS](/posts/sql-learning-journal-18/)
   ([PDF](/files/SQL_Learning_Journal_18.pdf))
-  
+- [SQL Learning Journal #19 – SUBQUERYING](/posts/sql-learning-journal-19/)
+  ([PDF](/files/SQL_Learning_Journal_19.pdf))
+
 ---
 
 More learning journals will be added as my learning journey continues.
